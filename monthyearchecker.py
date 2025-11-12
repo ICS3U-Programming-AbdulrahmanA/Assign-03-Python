@@ -1,3 +1,9 @@
+#!/usr/bin/env python3
+# Created By: Abdul
+# Date: 11/12/2025
+# Program to ask the user for month and year and display days in month
+
+
 def main():
     # get month and year from user as a string
     month_input = input("Please enter a month number (1-12): ")
